@@ -15,7 +15,7 @@ python2.6
 
 watools (https://github.com/wateraccounting/watools)
 
-hkvwaporwa (https://github.com/HKV-products-services/hkvwaporpy)
+hkvwaporpy (https://github.com/HKV-products-services/hkvwaporpy)
 
 ## About Training
 
