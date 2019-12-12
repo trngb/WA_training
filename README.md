@@ -1,4 +1,7 @@
 # WaPOR Water Accounting training ipython notebooks
+
+![](http://www.fao.org/typo3temp/pics/93f49ce381.jpg)
+
 Author: Bich Tran (b.tran@un-ihe.org)
 
 Description: Ipython notebooks for WaPOR Water Accounting training in Addis Ababa, Ethiopia (July 2019)
