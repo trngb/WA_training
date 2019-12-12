@@ -17,8 +17,10 @@ watools (https://github.com/wateraccounting/watools)
 
 hkvwaporpy (https://github.com/HKV-products-services/hkvwaporpy)
 
-## About Training
+## About the training
 
 The training is a part of the trainings series under the project ‘Using remote sensing in support of solutions to reduce agricultural water productivity gaps’, funded by the government of the Netherlands. A major output is the comprehensive database that provides information on biomass production and evapotranspiration. The FAO portal to monitor Water Productivity through Open access of remotely sensed derived data (WaPOR) monitors and reports on agriculture water productivity over Africa and the Near East. It provides open access to the water productivity database and its thousands of underlying map layers, it allows for direct data queries, time series analyses, area statistics and data download of key variables associated to water and land productivity assessments.
 
 The training on Water Accounting was held from 9th to 11th July, 2019 by Dr. Solomon Seyoum and Bich Tran. The participants consisted of staff and students from local universities (Addis Ababa University, Gondar University, Wellega University, Ambo University) research institutes and Awash Basin office. During the trainings, the participants learned about WaPOR database, how to download and use these data to assess Water Accounts and Water Productivity.
+
+For more information about WaPOR programme, please visit: http://www.fao.org/in-action/remote-sensing-for-water-productivity/en/
