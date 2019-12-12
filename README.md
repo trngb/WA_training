@@ -14,11 +14,11 @@ Description: Ipython notebooks for WaPOR Water Accounting training in Addis Abab
 
 ## Requirements
 
-python2.6
+python2.7
 
 watools (https://github.com/wateraccounting/watools)
 
-hkvwaporpy (https://github.com/HKV-products-services/hkvwaporpy)
+hkvwaporpy (https://github.com/trngbich/hkvwaporpy)
 
 ## About the training
 
